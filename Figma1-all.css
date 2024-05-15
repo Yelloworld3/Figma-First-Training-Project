@@ -1,0 +1,16 @@
+
+body {
+        background-image: url(firstpage.jpg);
+        background-repeat: no-repeat;
+        background-position: top;
+        background-attachment: fixed;
+        
+}
+
+nav {
+    color: aliceblue;
+    
+}
+thead {
+    justify-content: center;
+}
